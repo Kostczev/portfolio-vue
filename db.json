@@ -26,7 +26,7 @@
          "title": "Vue каталог + корзина",
          "image": "online-shop-vue.png",
          "linkGit": "https://github.com/Kostczev/online-shop-vue-n",
-         "linkBeb": "kostczev.github.io/online-shop-vue-n/",
+         "linkBeb": "https://kostczev.github.io/online-shop-vue-n/",
          "tipe": "vue"
       },
       {
@@ -35,7 +35,7 @@
          "title": "Vue Шифр Цезаря",
          "image": "caesar-vue.png",
          "linkGit": "https://github.com/Kostczev/Caesar-vue",
-         "linkBeb": " https://kostczev.github.io/Caesar-vue/",
+         "linkBeb": "https://kostczev.github.io/Caesar-vue/",
          "tipe": "vue"
       },
       {
@@ -44,7 +44,7 @@
          "title": "Vue Todo-list",
          "image": "toso-list-vue.png",
          "linkGit": "https://github.com/Kostczev/todo-list-vue",
-         "linkBeb": "kostczev.github.io/todo-list-vue/",
+         "linkBeb": "https://kostczev.github.io/todo-list-vue/",
          "tipe": "vue"
       },
       {

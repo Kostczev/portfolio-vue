@@ -5,7 +5,7 @@
          <div class="p-education__place">УрФУ имени первого Президента России Б.Н. Ельцина</div>
          <div class="p-education__direction">09.04.03 Прикладная информатика</div>
          <div class="p-education__end">2022 год</div>
-         <a class="p-projects-item__link card-item" href="https://istudent.urfu.ru/s/zachetnaya-knizhka-1/sharelink?l=195e3pg0000n8buea6a0l38u0k.rt20ymf63a0ee499f0b99.88317880" target="_blank">Зачетная книжка</a>
+         <a class="p-projects-item__link card-item" href="https://drive.google.com/file/d/1o_a04JMcKevjZdbnwy1KL1K2avKCmSnc/view?usp=share_link" target="_blank">Зачетная книжка</a>
       </div>
 
       <div class="p-education__item">
@@ -13,7 +13,7 @@
          <div class="p-education__place">УрФУ имени первого Президента России Б.Н. Ельцина</div>
          <div class="p-education__direction">09.03.02 Информационные системы и технологии</div>
          <div class="p-education__end">2020 год</div>
-         <a class="p-projects-item__link card-item" href="https://istudent.urfu.ru/s/zachetnaya-knizhka-1/sharelink?l=18hc2jg0000ld4o5ejsepinq3o.rt20ymf63a0ef9e299728.40785911" target="_blank">Зачетная книжка</a>
+         <a class="p-projects-item__link card-item" href="https://drive.google.com/file/d/1Rff3FZnmUj9h65AorLpYwmrk_d8vxxpo/view?usp=share_link" target="_blank">Зачетная книжка</a>
       </div>
       
    </div>

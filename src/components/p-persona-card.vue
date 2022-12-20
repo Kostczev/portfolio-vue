@@ -82,9 +82,9 @@
          width: 230px;
 
          &__photo {
-         height: auto;
-         width: 80%;
-      }
+            height: auto;
+            width: 80%;
+         }
       }
 
       

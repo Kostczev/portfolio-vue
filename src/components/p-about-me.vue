@@ -35,6 +35,12 @@
 <style lang="scss">
    .p-about-me {
       text-align:justify;
+      margin: 0 20px;
+
+      @media (min-width: 860px) {
+         margin: 0;
+      }
+
       li {
          list-style-type:disc;
          margin-left: 20px;
