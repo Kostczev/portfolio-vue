@@ -1,15 +1,17 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+   <div class="app">
+      <pMainWrapper />
+   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import pMainWrapper from "@/components/p-main-wrapper"
 
 export default {
+
   name: 'App',
   components: {
-    HelloWorld
+   pMainWrapper
   }
 }
 </script>
@@ -21,6 +23,17 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+}
+.app {
+   display: flex;
+}
+ul {
+   padding-inline-start: 0;
+}
+li {
+   list-style-type: none;
+}
+body {
+   margin: 0;
 }
 </style>
