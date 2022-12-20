@@ -69,7 +69,7 @@
       setTimeout( () => {
          this.tip='vue'
          this.isLoad = false
-      }, 500);
+      }, 650);
    }
 }
 </script>
